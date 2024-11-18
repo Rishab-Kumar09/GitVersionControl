@@ -1,7 +1,3 @@
 This is file 2.
-
-<<<<<<< HEAD
 DummyPerson updated file 2.
-=======
 Updated file 2 by Test Person.
->>>>>>> 9f93c803854481ed10f47d1eae16c13b1e3cf230
