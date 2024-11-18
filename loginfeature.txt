@@ -1,11 +1,6 @@
-<<<<<<< HEAD
+
 line added by main.
 
 this is a login feature file to be used to learn branching.
 
-aother line added by main.
-=======
 loginfeature addition.
-
-this is a login feature file to be used to learn branching.
->>>>>>> loginfeature
